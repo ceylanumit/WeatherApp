@@ -4,7 +4,8 @@
 - The application displays the current temperature, weather condition, and an icon representing the weather.
 - The background color of the application window is customizable.
 
-![WeatherApp Screenshot](WeatherApp/wApp.PNG)
+![WeatherApp Screenshot](main/wApp.PNG)
+
 
 ## How to Use
 
